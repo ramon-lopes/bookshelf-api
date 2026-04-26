@@ -58,9 +58,9 @@ src/
 ## 🗺️ Roadmap
 
 ### ✅ Fase 1 — Modelagem (atual)
-- [] Classes de domínio (`Book`, `User`, `Loan`, `Review`)
-- [] Enums de status (`BookStatus`, `UserRole`, `LoanStatus`)
-- [] Regras básicas no modelo
+- [x] Classes de domínio (`Book`, `User`, `Loan`, `Review`)
+- [x] Enums de status (`BookStatus`, `UserRole`, `LoanStatus`)
+- [x] Regras básicas no modelo
 
 ### 🔲 Fase 2 — Spring Boot
 - [ ] Subir a aplicação com Spring Boot
